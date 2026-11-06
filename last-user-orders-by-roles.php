@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name: Last User Orders by Roles
+ * Tested up to: 7.1.4
  * Plugin URI: https://github.com/MrGKanev/Last-User-Orders-by-Roles
  * Description: Displays users' last order dates and allows changing roles based on order inactivity.
  * Version: 0.0.4
@@ -12,7 +13,7 @@
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * WC requires at least: 6.0
- * WC tested up to: 9.2.1
+ * WC tested up to: 11.2.2
  */
 
 defined('ABSPATH') || exit;
